@@ -1,0 +1,10 @@
+test_fifthSample (__main__.TestEsPalindromo.test_fifthSample) ... ok
+test_firstSample (__main__.TestEsPalindromo.test_firstSample) ... ok
+test_fourthSample (__main__.TestEsPalindromo.test_fourthSample) ... ok
+test_secondSample (__main__.TestEsPalindromo.test_secondSample) ... ok
+test_thirdSample (__main__.TestEsPalindromo.test_thirdSample) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK

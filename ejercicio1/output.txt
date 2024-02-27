@@ -1,0 +1,8 @@
+test_esPalindromo (__main__.TestEsPalindromo.test_esPalindromo) ... ok
+test_esPalindromoConEspacios (__main__.TestEsPalindromo.test_esPalindromoConEspacios) ... ok
+test_noEsPalindromo (__main__.TestEsPalindromo.test_noEsPalindromo) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
