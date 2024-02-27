@@ -56,3 +56,20 @@ def findChampions(input_lines):
             idx += 1
 
     return "\n".join(output)
+
+if __name__ == "__main__":
+    input_lines = ""
+
+    G, P = map(int, input("Ingresa G y P: \n").split())
+    input_lines += f"{G} {P}\n"
+
+    for i in range(G):
+        input_lines += input(f"Ingresa los resultados de la carrera {i+1}: \n") + "\n"
+
+    S = int(input("Ingresa S: \n"))
+    input_lines += f"{S}\n"
+
+    for i in range(S):
+        input_lines += input(f"Ingresa K y los puntos del sistema {i+1}: \n") + "\n"
+    print("Output:")
+    print(findChampions(input_lines))

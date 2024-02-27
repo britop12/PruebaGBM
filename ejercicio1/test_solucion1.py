@@ -1,5 +1,5 @@
 import unittest
-from ejercicio1 import isPalindrome
+from solucion1 import isPalindrome
 
 class TestEsPalindromo(unittest.TestCase):
 
