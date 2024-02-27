@@ -1,7 +1,7 @@
 import unittest
-from solucion import findChampions
+from solucion2 import findChampions
 
-class TestEsPalindromo(unittest.TestCase):
+class TestfindChampions(unittest.TestCase):
 
     def test_firstSample(self):
         firstCase = """
